@@ -1,6 +1,6 @@
 # Figma-Etuvees
 ## Voici les mockups réalisés sur figma d'un site web pour un restaurant fictif 
-
+Je précise que ce projet est voué à changer et à évoluer
 
 ### La version Desktop
 https://www.figma.com/proto/7cr37iXDrac9vMvbW1Gktr/Mockup-Etuv%C3%A9es?type=design&node-id=31-18&t=iYvXqPjqwqOI3Qx5-1&scaling=scale-down&page-id=0%3A1&mode=design
