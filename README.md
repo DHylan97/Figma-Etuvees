@@ -1,5 +1,5 @@
 # Figma-Etuvees
-## Voici les mockups réalisés sur figma d'un site web pour un restaurant fictif 
+## Voici des mockups réalisés sur figma d'un site web pour un restaurant fictif 
 Je précise que ce projet est voué à changer et à évoluer
 
 ### La version Desktop
